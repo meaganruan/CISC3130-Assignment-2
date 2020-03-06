@@ -10,4 +10,5 @@ Created a for loop to open multiple files.
 Removed all the column names (Track Name).
 
 Queue-
+Created a playlist class.
 Added songs from files into a Queue.
