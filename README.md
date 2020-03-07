@@ -16,3 +16,6 @@ Added songs from files into a Queue.
 Stack=
 Created a song history list class.
 Added songs to list to track which one is played.
+
+Incomplete:
+Had trouble converting tracks from type String into type Song.
