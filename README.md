@@ -12,3 +12,7 @@ Removed all the column names (Track Name).
 Queue-
 Created a playlist class.
 Added songs from files into a Queue.
+
+Stack=
+Created a song history list class.
+Added songs to list to track which one is played.
